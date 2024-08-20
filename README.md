@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorakutsu.vitorakutsu&left_text=Views"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋! My name is Vitor Eyki.</h1>
 
 ###

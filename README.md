@@ -6,7 +6,7 @@
 
 👨‍🎓 Graduating as a Computer Scientist from [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
-💡 Always learning something
+💡 Always learning about something
 
 ###
 

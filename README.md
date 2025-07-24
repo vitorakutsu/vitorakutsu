@@ -2,7 +2,7 @@
 
 ###
 
-👨🏻‍💻 Working as a Junior Front-End Developer at [**RubCube**](https://www.rubcube.com/)
+👨🏻‍💻 Working as a Full-stack Developer at [**RubCube**](https://www.rubcube.com/)
 
 👨‍🎓 Graduating as a Computer Scientist from [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 

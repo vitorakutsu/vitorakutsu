@@ -36,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
 
-  <br/>
-
   <!-- ================= FRONTEND ================= -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
@@ -52,8 +50,6 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="playwright logo" />
   <img width="12" />
 
-  <br/>
-
   <!-- ================= DEVOPS ================= -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />
@@ -61,8 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
   <img width="12" />
-
-  <br/>
 
   <!-- ================= LINGUAGENS ================= -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
@@ -106,5 +100,6 @@
 <img src="https://raw.githubusercontent.com/vitoreyki/vitoreyki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
